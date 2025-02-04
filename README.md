@@ -1,4 +1,4 @@
-<h3 align="center">I am the front end developer iran</h3>
+<h3 align="center">I'm the front end developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecopy369&label=Profile%20views&color=0e75b6&style=flat" alt="ecopy369" /> </p>
 
